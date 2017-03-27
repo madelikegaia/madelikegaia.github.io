@@ -52,7 +52,7 @@ My first website on github
   			</div>
   			<div id="navbar" class="collapse navbar-collapse">
   				<ul class="nav navbar-nav navbar-right">
-  					<li><a href="#who">Who we are PEOPLE</a></li>
+  					<li><a href="#who">Who we are</a></li>
   					<li><a href="#get-involved">Get involved</a></li>
   				</ul>
   			</div><!--/.nav-collapse -->
